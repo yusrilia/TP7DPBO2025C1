@@ -113,4 +113,5 @@ Semua tabel menggunakan AUTO_INCREMENT, PRIMARY KEY, dan relasi FOREIGN KEY.
 
 
 # Dokumentasi
-[video](screenrecord.mkv)
+
+https://github.com/user-attachments/assets/3eff34f7-7060-440f-ab5a-4a5abc5dbbe6
